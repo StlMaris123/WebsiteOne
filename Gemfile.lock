@@ -263,12 +263,12 @@ GEM
       multi_xml (>= 0.5.2)
     i18n (0.8.6)
     ice_cube (0.16.2)
-    jasmine (2.6.0)
-      jasmine-core (>= 2.6.0, < 3.0.0)
+    jasmine (2.8.0)
+      jasmine-core (>= 2.8.0, < 3.0.0)
       phantomjs
       rack (>= 1.2.1)
       rake
-    jasmine-core (2.6.1)
+    jasmine-core (2.8.0)
     jasmine-jquery-rails (2.0.3)
     jbuilder (2.6.4)
       activesupport (>= 3.0.0)
